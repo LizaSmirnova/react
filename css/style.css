@@ -1,0 +1,17 @@
+
+@media (min-width: 576px) {
+  .search {
+    width: 75vw;
+    margin: 0 auto;
+  }
+}
+
+.btn-outline-purple{
+  --bs-btn-hover-color: #6f42c1;
+   --bs-btn-hover-bg: #fff;
+}
+
+.btn-outline-blue{
+  --bs-btn-hover-color: #00f;
+   --bs-btn-hover-bg: #fff;
+}
